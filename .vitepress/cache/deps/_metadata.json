@@ -1,0 +1,49 @@
+{
+  "hash": "40ace89b",
+  "configHash": "c8261ab7",
+  "lockfileHash": "2a1f5e76",
+  "browserHash": "c2d8f82f",
+  "optimized": {
+    "vue": {
+      "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "7ccf88fd",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "42a71fb9",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "153b9de7",
+      "needsInterop": false
+    },
+    "@escook/vitepress-theme": {
+      "src": "../../../node_modules/@escook/vitepress-theme/dist/index.js",
+      "file": "@escook_vitepress-theme.js",
+      "fileHash": "b8b13901",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "EscookMusicBall-BkDBnoZh-3MLRYKGD": {
+      "file": "EscookMusicBall-BkDBnoZh-3MLRYKGD.js"
+    },
+    "EscookHomeFeatureBefore-D_e5sYrO-VQ5I6Z2F": {
+      "file": "EscookHomeFeatureBefore-D_e5sYrO-VQ5I6Z2F.js"
+    },
+    "EscookConfetti-BU05OPRV-XWGO6NXP": {
+      "file": "EscookConfetti-BU05OPRV-XWGO6NXP.js"
+    },
+    "chunk-GWYN3LB4": {
+      "file": "chunk-GWYN3LB4.js"
+    },
+    "chunk-5WRI5ZAA": {
+      "file": "chunk-5WRI5ZAA.js"
+    }
+  }
+}
