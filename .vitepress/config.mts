@@ -9,10 +9,10 @@ const vitePressConfig = {
   base: '/docs-peak/',
   title: "Peak的文档知识库",
   description: "你好 我是Peak",
-  head: [["link", { rel: "icon", href: "/public/icon/preserved.svg" }]],
+  head: [["link", { rel: "icon", href: "/preserved.svg" }]],
   themeConfig: {
     musicBall: {
-      src: '/public/bgm/悬溺.mp3'
+      src: '悬溺.mp3'
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
