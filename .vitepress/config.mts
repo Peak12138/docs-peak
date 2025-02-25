@@ -12,7 +12,17 @@ const vitePressConfig = {
   head: [["link", { rel: "icon", href: "/docs-peak/preserved.svg" }]],
   themeConfig: {
     musicBall: {
-      src: '/docs-peak/xuanni.mp3'
+      // src: '/docs-peak/xuanni.mp3'
+      list: [
+        {
+          name: '我记得',
+          src: '/docs-peak/remember.mp3',
+        },
+        {
+          name: '悬溺',
+          src: '/docs-peak/xuanni.mp3',
+        }
+      ]
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
