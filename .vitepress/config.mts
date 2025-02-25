@@ -9,7 +9,7 @@ const vitePressConfig = {
   base: '/docs-peak/',
   title: "Peak的文档知识库",
   description: "你好 我是Peak",
-  head: [["link", { rel: "icon", href: "/icon/preserved.svg" }]],
+  head: [["link", { rel: "icon", href: "/docs-peak/icon/preserved.svg" }]],
   themeConfig: {
     musicBall: {
       src: '悬溺.mp3'
