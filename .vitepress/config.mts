@@ -12,7 +12,7 @@ const vitePressConfig = {
   head: [["link", { rel: "icon", href: "/docs-peak/public/preserved.svg" }]],
   themeConfig: {
     musicBall: {
-      src: '/public/悬溺.mp3'
+      src: '/docs-peak/public/悬溺.mp3'
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
