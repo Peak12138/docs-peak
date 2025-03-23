@@ -3,6 +3,11 @@ import { withSidebar, generateSidebar } from 'vitepress-sidebar'
 import escookConfig from '@escook/vitepress-theme/config'
 // import set_sidebar from '@/utils/auto-gen-silibar.mjs'
 
+/**
+ * @param {number} paramName - 这是这个jsDoc的描述参数
+ * @returns {Function} - 这是这个jsDoc的描述返回值
+ * 
+ */
 // vitePress配置
 const vitePressConfig = {
   extends: escookConfig,
