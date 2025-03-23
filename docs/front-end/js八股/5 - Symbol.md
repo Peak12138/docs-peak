@@ -1,4 +1,4 @@
-# Symbol类型
+# 5 - Symbol类型
 
 ## 1. Symbol有什么用
 
