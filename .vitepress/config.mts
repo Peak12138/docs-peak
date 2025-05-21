@@ -46,7 +46,7 @@ const vitePressConfig = {
           },
         ]
       },
-      { text: '开源经历', link: '/markdown-examples' },
+      { text: '开源经历', link: '/docs/open-source/dos符号图像.md' },
       { text: '教程', link: '/docs/course/同款笔记搭建' },
     ],
 
